@@ -5,4 +5,5 @@ PINK
 ORANGE
 GREEN
 YELLOW
+INDIGO
 These are the colours my rainbow.
