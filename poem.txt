@@ -8,5 +8,6 @@ UNICORN
 YELLOW
 INDIGO
 PONYs
-These are the colours my rainbow,unicorn and pony.
+RAIN
+These are the colours my rainbow,unicorn,pony and rain.
  
