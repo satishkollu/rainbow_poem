@@ -4,6 +4,7 @@ BLUE
 PINK
 ORANGE
 GREEN
+UNICORN
 YELLOW
 INDIGO
-These are the colours my rainbow.
+These are the colours my rainbow and unicorn.
