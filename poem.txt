@@ -2,6 +2,7 @@ The RAINBOW
 RED 
 BLUE 
 PINK
+ORANGE
 GREEN
 YELLOW
 These are the colours my rainbow.
