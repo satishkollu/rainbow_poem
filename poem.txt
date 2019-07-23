@@ -9,5 +9,6 @@ YELLOW
 INDIGO
 PONYs
 RAIN
+GAIN
 These are the colours my rainbow,unicorn,pony and rain.
  
